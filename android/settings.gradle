@@ -1,0 +1,3 @@
+rootProject.name = 'DemoFlatlistStickyHeader'
+
+include ':app'
